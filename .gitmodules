@@ -1,0 +1,19 @@
+[submodule "docker/Projects/django-notes-app"]
+    path = docker/Projects/django-notes-app
+    url = git@github.com:LondheShubham153/django-notes-app.git
+
+[submodule "docker/Projects/flask-app-ecs"]
+    path = docker/Projects/flask-app-ecs
+    url = git@github.com:LondheShubham153/two-tier-flask-app.git
+
+[submodule "docker/Projects/node-todo-cicd"]
+    path = docker/Projects/node-todo-cicd
+    url = git@github.com:LondheShubham153/node-todo-cicd.git
+
+[submodule "docker/Projects/simple-java-docker"]
+    path = docker/Projects/simple-java-docker
+    url = git@github.com:LondheShubham153/simple-java-docker.git
+
+[submodule "docker/Projects/two-tier-flask-app"]
+    path = docker/Projects/two-tier-flask-app
+    url = git@github.com:LondheShubham153/two-tier-flask-app.git
